@@ -1,2 +1,2 @@
 # codepath
-leetcode like problems that I worked on during codepath course
+Technical Interview Prep course units and problems
