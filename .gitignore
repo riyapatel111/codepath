@@ -1,0 +1,39 @@
+# Operating System specific files
+.DS_Store
+Thumbs.db
+Icon?
+
+# Xcode specific files (for iOS dev)
+DerivedData/
+Build/
+*.xcodeproj/*.xcscheme
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/swiftpm/
+.swiftpm/
+Pods/
+Carthage/Build/
+*.playground/xcuserdata/
+*.playground/timeline.xctimeline
+*.playground/playground.xcworkspace/
+*.dSYM/
+*.o
+*.a
+xcuserdata/
+_build/
+*.log
+*.crash
+*.xccoveragedata
+*.xcresult
+
+# Python specific files (for TIP classes)
+*.pyc
+__pycache__/
+env/
+venv/
+.env
+
+# IDE specific files (VS Code, PyCharm, etc.)
+.vscode/
+.idea/
+*.swp
