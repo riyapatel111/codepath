@@ -1,2 +1,2 @@
 # codepath
-Technical Interview Prep course units and problems
+Technical Interview Prep(TIP102) course units and leetcode problems
